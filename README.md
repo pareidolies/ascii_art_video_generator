@@ -1,6 +1,6 @@
 # Ascii Video Generator
 
-This program transforms videos into ascii art.
+This program written in Python transforms videos into ascii art.
 
 ## Explanatory video I used
 
